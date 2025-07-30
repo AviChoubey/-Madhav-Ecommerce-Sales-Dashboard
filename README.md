@@ -14,7 +14,8 @@ The **Madhav Ecommerce Sales Dashboard** is designed to provide key insights int
 - Interactive filters for better exploration
 
 ## 📸 Dashboard Preview
-<img width="904" height="502" alt="image" src="https://github.com/user-attachments/assets/372dd554-43ce-40bf-89a2-2e101f02fa05" />
+<img width="905" height="507" alt="image" src="https://github.com/user-attachments/assets/5da3541f-497d-4c83-bdfc-5a412bb386ab" />
+
 
 ## 🗂️ Files
 - `Madhav-Ecommerce-Sales-Dashboard.pbix` → Main Power BI dashboard file
